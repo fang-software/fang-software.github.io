@@ -4,7 +4,7 @@ title: "GitHub和GitLab管理多个SSH key"
 categories: other
 author: "fang-software"
 meta: "git"
-date: 2019-12-19
+date: 2017-05-04
 ---
 
 以前只使用一个 ssh key 在github上提交代码，由于工作原因，需要再添加一个ssh key在公司的 gitlab上提交代码，下面记录下配置过程，防止遗忘。
