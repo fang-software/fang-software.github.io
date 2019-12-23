@@ -37,11 +37,11 @@ $ id_rsa_github
 
 注意不要一路回车，要给这个文件起一个名字， 比如叫 id_rsa_github, 所以相应的也会生成一个 id_rsa_github.pub 文件
 
-![函数防抖](/assets/img/SSH_key/img1.png "函数防抖")
+![img1](/assets/img/SSH_key/img1.png "img1")
 
 目录结构如下：
 
-![函数防抖](/assets/img/SSH_key/img2.png "函数防抖")
+![img2](/assets/img/SSH_key/img2.png "img2")
 
 ## 添加私钥
 git自动把新生成的私钥写到known_hosts中
