@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " vue-cli中proxyTable配置接口地址代理"
+title: "vue-cli中proxyTable配置接口地址代理"
 categories: js
 author: "fang-software"
 meta: "vue"
